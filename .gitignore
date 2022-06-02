@@ -1,0 +1,10 @@
+data/
+code/test-cifar-10/
+code/X_vgg.npy
+code/Y_int_vgg.npy
+code/Y_vgg.npy
+code/ViT_TensorFlow/X_vgg.npy
+code/ViT_TensorFlow/Y_int_vgg.npy
+code/ViT_TensorFlow/Y_vgg.npy
+code/logs/
+code/cache/
